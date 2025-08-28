@@ -17,7 +17,6 @@
 
 ## 📊 Dev Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yejii-gim" height="160" />
   <img src="https://github-readme-stats.vercel.app/api?username=yejii-gim&show_icons=true&rank_icon=github" height="160" />
 </p>
 
