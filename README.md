@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yejii-gim&show_icons=true&rank_icon=github&hide=prs&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yejii-gim&show_icons=true&rank_icon=github&hide=prs" />
 </p>
 
 <p align="center">
