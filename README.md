@@ -23,7 +23,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yejii-gim&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yejii-gim&show_icons=true&theme=default&count_private=true" />
 </p>
 
 <p align="center">
