@@ -16,19 +16,10 @@
 
  <br/>
 <!-- 스택 아이콘 -->
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=unity,cs,git,github&perline=9" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yejii-gim&show_icons=true&theme=default&count_private=true" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yejii-gim&layout=compact&langs_count=8" />
-</p>
-
-
----
