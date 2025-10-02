@@ -21,6 +21,5 @@
   <img src="https://skillicons.dev/icons?i=unity,cs,git,github&perline=9" />
 </p>
 
-[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fyejii-gim?color=gray&label=hits&size=small)](https://myhits.vercel.app)
 ---
 
